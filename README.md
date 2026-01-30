@@ -1,3 +1,4 @@
+HEAD
 # Centro de Conciliación y Arbitraje Constructores de Paz
 
 Sitio web corporativo profesional para centro de conciliación y arbitraje.
@@ -60,3 +61,7 @@ Para modificar colores, editar las variables CSS en `css/styles.css`:
 - `--color-azul-oscuro`
 - `--color-azul`
 - `--color-amarillo`
+
+# Pagina-web-Constructores-de-paz
+Sitio web corporativo del Centro de Conciliación y Arbitraje Constructores de Paz, desarrollado con HTML, CSS y JavaScript. Diseño profesional, responsive, con animaciones, formulario de contacto validado y navegación moderna botón de subir arriba y botón de Whatsapp.
+13e71850186a99c08338d24593ad72ce5dea7bdb
